@@ -3,5 +3,7 @@
 *.exe
 *.o
 *.obj
+.vscode
+.history
 build/
 cmake-build-*/
