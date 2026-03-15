@@ -7,3 +7,4 @@
 .history
 build/
 cmake-build-*/
+.gitignore
